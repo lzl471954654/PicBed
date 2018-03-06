@@ -1,0 +1,8 @@
+*.properties
+.idea/vcs.xml
+.idea/workspace.xml
+/out
+/.idea
+PicBed2.iml
+
+
